@@ -32,4 +32,4 @@
 ## Más información
 
 - Contactanos en hello@nigal.net
-- Visita nuestra web (www.nigal.net)[www.nigal.net]
+- Visita nuestra web www.nigal.net
